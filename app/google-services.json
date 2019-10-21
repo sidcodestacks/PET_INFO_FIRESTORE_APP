@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "61887978927",
+    "firebase_url": "https://pet-info-app.firebaseio.com",
+    "project_id": "pet-info-app",
+    "storage_bucket": "pet-info-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:61887978927:android:97406bc078aaa3deca235a",
+        "android_client_info": {
+          "package_name": "com.example.android.pets"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "61887978927-nkr9j5d3oudblgugmnkkt74hvht3ngg4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0fRU7ED2cAVUVwbX6xzFOogi9x7p05uA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "61887978927-nkr9j5d3oudblgugmnkkt74hvht3ngg4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
